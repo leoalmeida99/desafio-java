@@ -1,5 +1,17 @@
 <h1>Desafios para resolver em Java proposto por Cleyton Vigatto</h1>
-<br>
+<p>
+    Antes de começar você vai precisar primeiramente o JDK instalado no seu computador <a href="https://www.oracle.com/java/technologies/downloads/">clique aqui para instalar o JDK</a>, para desenvolver os desafios eu utilizei o Java 22.
+</p>
+<p>
+    Para rodar algum desafio, você deve fazer esses passos:
+    <ul>
+        <li>Abra o prompt de comando</li>
+        <li>entre na pasta do projeto, em específico no diretório onde se encontra as classes dos desafios</li>
+        <li>Compile o programa escrevendo: javac CalculadoraBasica.java</li>
+        <li>Rode ele escrevendo: java CalculadoraBasica</li>
+    </ul>
+</p>
+<br><br>
 
 <h3>1. Calculadora Básica:</h3>
 <h3>Descrição:</h3>
